@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Ava Patel",
+		"course": "Computer Science",
+		"city": "Toronto",
+		"age": 20
+	},
+	{
+		"name": "Liam Chen",
+		"course": "Mathematics",
+		"city": "Vancouver",
+		"age": 22
+	},
+	{
+		"name": "Mia Johnson",
+		"course": "Biology",
+		"city": "Calgary",
+		"age": 19
+	},
+	{
+		"name": "Noah Garcia",
+		"course": "Business Administration",
+		"city": "Ottawa",
+		"age": 21
+	},
+	{
+		"name": "Isabella Kim",
+		"course": "Graphic Design",
+		"city": "Montreal",
+		"age": 23
+	}
+]
